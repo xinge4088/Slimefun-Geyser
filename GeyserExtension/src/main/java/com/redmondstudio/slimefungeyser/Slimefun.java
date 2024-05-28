@@ -1853,6 +1853,34 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:enchanting_table", ancient_altar);
 
+        CustomItemData auto_enchanter = CustomItemData.builder()
+                .name("auto_enchanter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200380).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanting_table", auto_enchanter);
+
+        CustomItemData auto_disenchanter = CustomItemData.builder()
+                .name("auto_disenchanter")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200381).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanting_table", auto_disenchanter);
+
+        CustomItemData auto_enchanter_2 = CustomItemData.builder()
+                .name("auto_enchanter_2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200535).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanting_table", auto_enchanter_2);
+
+        CustomItemData auto_disenchanter_2 = CustomItemData.builder()
+                .name("auto_disenchanter_2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200536).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:enchanting_table", auto_disenchanter_2);
+
         //
 		// NETHER_WART
 		//
