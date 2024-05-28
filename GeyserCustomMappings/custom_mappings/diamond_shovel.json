@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:diamond_shovel": [
+			{
+				"name": "explosive_shovel",
+				"custom_model_data": 2200242,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_shovel",
+				"custom_model_data": 2200277,
+				"texture_size": 16
+			}
+		]
+	}
+}

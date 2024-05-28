@@ -1,0 +1,27 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:iron_pickaxe": [
+			{
+				"name": "pickaxe_of_containment",
+				"custom_model_data": 2200230,
+				"texture_size": 16
+			},
+			{
+				"name": "hercules_pickaxe",
+				"custom_model_data": 2200231,
+				"texture_size": 16
+			},
+			{
+				"name": "cobalt_pickaxe",
+				"custom_model_data": 2200258,
+				"texture_size": 16
+			},
+			{
+				"name": "climbing_pick",
+				"custom_model_data": 2200882,
+				"texture_size": 16
+			}
+		]
+	}
+}

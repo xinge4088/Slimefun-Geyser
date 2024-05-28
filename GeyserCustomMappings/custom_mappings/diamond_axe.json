@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:diamond_axe": [
+			{
+				"name": "lumber_axe",
+				"custom_model_data": 2200197,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_axe",
+				"custom_model_data": 2200276,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:stone_pressure_plate": [
+			{
+				"name": "gps_activation_device_shared",
+				"custom_model_data": 2200463,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_activation_device_personal",
+				"custom_model_data": 2200464,
+				"texture_size": 16
+			},
+			{
+				"name": "elevator_plate",
+				"custom_model_data": 2200470,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:obsidian": [
+			{
+				"name": "wither_proof_obsidian",
+				"custom_model_data": 2200336,
+				"texture_size": 16
+			}
+		]
+	}
+}

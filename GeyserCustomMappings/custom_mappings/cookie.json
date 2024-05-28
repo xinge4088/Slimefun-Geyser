@@ -1,0 +1,22 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:cookie": [
+			{
+				"name": "fortune_cookie",
+				"custom_model_data": 2200014,
+				"texture_size": 32
+			},
+			{
+				"name": "diet_cookie",
+				"custom_model_data": 2200015,
+				"texture_size": 32
+			},
+			{
+				"name": "kelp_cookie",
+				"custom_model_data": 2200025,
+				"texture_size": 32
+			}
+		]
+	}
+}

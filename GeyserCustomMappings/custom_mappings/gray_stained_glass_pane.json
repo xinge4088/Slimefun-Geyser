@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:gray_stained_glass_pane": [
+			{
+				"name": "ui_background_2",
+				"custom_model_data": 1111111,
+				"texture_size": 16
+			},
+			{
+				"name": "background",
+				"custom_model_data": 2200002,
+				"texture_size": 16
+			}
+		]
+	}
+}

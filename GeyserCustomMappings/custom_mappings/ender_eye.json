@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:ender_eye": [
+			{
+				"name": "magic_eye_of_ender",
+				"custom_model_data": 2200041,
+				"texture_size": 16
+			}
+		]
+	}
+}

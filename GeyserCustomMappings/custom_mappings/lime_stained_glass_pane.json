@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:lime_stained_glass_pane":[
+			{
+				"name": "previous_on",
+				"custom_model_data": 2200007,
+				"texture_size": 16
+			},
+			{
+				"name": "next_on",
+				"custom_model_data": 2200009,
+				"texture_size": 16
+			}
+		]
+	}
+}

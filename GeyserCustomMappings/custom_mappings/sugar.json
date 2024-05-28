@@ -1,0 +1,22 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:sugar": [
+			{
+				"name": "magic_sugar",
+				"custom_model_data": 2200042,
+				"texture_size": 32
+			},
+			{
+				"name": "wheat_flour",
+				"custom_model_data": 2200114,
+				"texture_size": 32
+			},
+			{
+				"name": "salt",
+				"custom_model_data": 2200198,
+				"texture_size": 32
+			}
+		]
+	}
+}

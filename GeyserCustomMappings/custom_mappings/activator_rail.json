@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:activator_rail": [
+			{
+				"name": "basic_circuit_board",
+				"custom_model_data": 2200051,
+				"texture_size": 16
+			}
+		]
+	}
+}

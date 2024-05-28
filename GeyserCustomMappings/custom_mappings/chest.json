@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:chest": [
+			{
+				"name": "output_chest",
+				"custom_model_data": 2200016,
+				"texture_size": 32
+			}
+		]
+	}
+}

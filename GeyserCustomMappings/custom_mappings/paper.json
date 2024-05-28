@@ -1,0 +1,52 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:paper": [
+			{
+				"name": "magical_book_cover",
+				"custom_model_data": 2200049,
+				"texture_size": 16
+			},
+			{
+				"name": "steel_plate",
+				"custom_model_data": 2200115,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_cloth",
+				"custom_model_data": 2200206,
+				"texture_size": 16
+			},
+			{
+				"name": "cloth",
+				"custom_model_data": 2200222,
+				"texture_size": 16
+			},
+			{
+				"name": "rag",
+				"custom_model_data": 2200223,
+				"texture_size": 16
+			},
+			{
+				"name": "bandage",
+				"custom_model_data": 2200224,
+				"texture_size": 16
+			},
+			{
+				"name": "scroll_of_dimensional_teleposition",
+				"custom_model_data": 2200310,
+				"texture_size": 16
+			},
+			{
+				"name": "reinforced_plate",
+				"custom_model_data": 2200332,
+				"texture_size": 16
+			},
+			{
+				"name": "plastic_sheet",
+				"custom_model_data": 2200385,
+				"texture_size": 16
+			}
+		]
+	}
+}

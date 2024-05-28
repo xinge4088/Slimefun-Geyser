@@ -1,0 +1,22 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:enchanted_book": [
+			{
+				"name": "slimefun_guide",
+				"custom_model_data": 2200001,
+				"texture_size": 16
+			},
+			{
+				"name": "back",
+				"custom_model_data": 2200003,
+				"texture_size": 16
+			},
+			{
+				"name": "tome_of_knowledge_sharing",
+				"custom_model_data": 2200313,
+				"texture_size": 16
+			}
+		]
+	}
+}

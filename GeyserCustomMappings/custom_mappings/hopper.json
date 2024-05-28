@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:hopper": [
+			{
+				"name": "infused_hopper",
+				"custom_model_data": 2200465,
+				"texture_size": 16
+			}
+		]
+	}
+}

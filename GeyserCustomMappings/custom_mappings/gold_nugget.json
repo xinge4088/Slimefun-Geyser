@@ -1,0 +1,37 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:gold_nugget": [
+			{
+				"name": "magical_lump_1",
+				"custom_model_data": 2200030,
+				"texture_size": 16
+			},
+			{
+				"name": "magical_lump_2",
+				"custom_model_data": 2200031,
+				"texture_size": 16
+			},
+			{
+				"name": "magical_lump_3",
+				"custom_model_data": 2200032,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_1",
+				"custom_model_data": 2200033,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_2",
+				"custom_model_data": 2200034,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_lump_3",
+				"custom_model_data": 2200035,
+				"texture_size": 16
+			}
+		]
+	}
+}

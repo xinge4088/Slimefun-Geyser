@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:trident": [
+			{
+				"name": "soulbound_trident",
+				"custom_model_data": 2200273,
+				"texture_size": 16
+			}
+		]
+	}
+}

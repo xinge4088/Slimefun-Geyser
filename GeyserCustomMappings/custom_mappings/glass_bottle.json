@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:glass_bottle": [
+			{
+				"name": "flask_of_knowledge",
+				"custom_model_data": 2200314,
+				"texture_size": 16
+			}
+		]
+	}
+}

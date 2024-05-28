@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:bowl": [
+			{
+				"name": "gold_pan",
+				"custom_model_data": 2200053,
+				"texture_size": 16
+			},
+			{
+				"name": "nether_gold_pan",
+				"custom_model_data": 2200054,
+				"texture_size": 16
+			}
+		]
+	}
+}

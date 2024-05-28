@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:cooked_porkchop": [
+			{
+				"name": "pork_jerky",
+				"custom_model_data": 2200020,
+				"texture_size": 32
+			}
+		]
+	}
+}

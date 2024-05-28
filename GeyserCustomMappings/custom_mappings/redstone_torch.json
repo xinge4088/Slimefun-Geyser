@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:redstone_torch": [
+			{
+				"name": "gps_marker",
+				"custom_model_data": 2200392,
+				"texture_size": 16
+			}
+		]
+	}
+}

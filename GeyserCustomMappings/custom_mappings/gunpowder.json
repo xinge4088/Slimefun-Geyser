@@ -1,0 +1,32 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:gunpowder": [
+			{
+				"name": "shifted_ore",
+				"custom_model_data": 2200055,
+				"texture_size": 16
+			},
+			{
+				"name": "crushed_ore",
+				"custom_model_data": 2200211,
+				"texture_size": 16
+			},
+			{
+				"name": "pulverized_ore",
+				"custom_model_data": 2200212,
+				"texture_size": 16
+			},
+			{
+				"name": "pure_ore_cluster",
+				"custom_model_data": 2200213,
+				"texture_size": 16
+			},
+			{
+				"name": "essence_of_afterlife",
+				"custom_model_data": 2200260,
+				"texture_size": 16
+			}
+		]
+	}
+}

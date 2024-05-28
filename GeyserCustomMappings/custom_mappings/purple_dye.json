@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:purple_dye": [
+			{
+				"name": "strange_nether_goo",
+				"custom_model_data": 2200534,
+				"texture_size": 16
+			}
+		]
+	}
+}

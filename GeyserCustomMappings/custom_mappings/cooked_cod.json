@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:cooked_cod": [
+			{
+				"name": "fish_jerky",
+				"custom_model_data": 2200024,
+				"texture_size": 32
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:name_tag":[
+			{
+				"name": "search",
+				"custom_model_data": 2200005,
+				"texture_size": 16
+			}
+		]
+	}
+}

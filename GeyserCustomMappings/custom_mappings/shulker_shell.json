@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:shulker_shell": [
+			{
+				"name": "synthetic_shulker_shell",
+				"custom_model_data": 2200544,
+				"texture_size": 16
+			}
+		]
+	}
+}

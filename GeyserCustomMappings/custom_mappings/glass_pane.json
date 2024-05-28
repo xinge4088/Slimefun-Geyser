@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:glass_pane": [
+			{
+				"name": "magical_glass",
+				"custom_model_data": 2200050,
+				"texture_size": 16
+			}
+		]
+	}
+}

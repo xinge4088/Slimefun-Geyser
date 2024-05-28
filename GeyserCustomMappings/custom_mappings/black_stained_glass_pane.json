@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:black_stained_glass_pane":[
+			{
+				"name": "previous_off",
+				"custom_model_data": 2200008,
+				"texture_size": 16
+			},
+			{
+				"name": "next_off",
+				"custom_model_data": 2200010,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:comparator":[
+			{
+				"name": "menu",
+				"custom_model_data": 2200004,
+				"texture_size": 16
+			}
+		]
+	}
+}

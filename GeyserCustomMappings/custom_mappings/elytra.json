@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:elytra": [
+			{
+				"name": "infused_elytra",
+				"custom_model_data": 2200422,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_elytra",
+				"custom_model_data": 2200423,
+				"texture_size": 16
+			}
+		]
+	}
+}

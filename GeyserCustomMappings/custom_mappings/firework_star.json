@@ -1,0 +1,62 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:firework_star": [
+			{
+				"name": "blank_rune",
+				"custom_model_data": 2200409,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_air",
+				"custom_model_data": 2200410,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_earth",
+				"custom_model_data": 2200411,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_fire",
+				"custom_model_data": 2200412,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_water",
+				"custom_model_data": 2200413,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_ender",
+				"custom_model_data": 2200414,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_lightning",
+				"custom_model_data": 2200415,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_rainbow",
+				"custom_model_data": 2200416,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_soulbound",
+				"custom_model_data": 2200417,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_enchantment",
+				"custom_model_data": 2200418,
+				"texture_size": 16
+			},
+			{
+				"name": "ancient_rune_villagers",
+				"custom_model_data": 2200543,
+				"texture_size": 16
+			}
+		]
+	}
+}

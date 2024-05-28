@@ -1,0 +1,557 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:player_head": [
+			{
+				"name": "wiki",
+				"custom_model_data": 2200006,
+				"texture_size": 16
+			},
+			{
+				"name": "portable_crafter",
+				"custom_model_data": 2200013,
+				"texture_size": 16
+			},
+			{
+				"name": "portable_dustbin",
+				"custom_model_data": 2200018,
+				"texture_size": 16
+			},
+			{
+				"name": "ender_backpack",
+				"custom_model_data": 2200036,
+				"texture_size": 16
+			},
+			{
+				"name": "battery",
+				"custom_model_data": 2200060,
+				"texture_size": 16
+			},
+			{
+				"name": "synthetic_sapphire",
+				"custom_model_data": 2200089,
+				"texture_size": 32
+			},
+			{
+				"name": "raw_carbonado",
+				"custom_model_data": 2200091,
+				"texture_size": 32
+			},
+			{
+				"name": "carbonado",
+				"custom_model_data": 2200094,
+				"texture_size": 32
+			},
+			{
+				"name": "carbon",
+				"custom_model_data": 2200113,
+				"texture_size": 32
+			},
+			{
+				"name": "compressed_carbon",
+				"custom_model_data": 2200116,
+				"texture_size": 32
+			},
+			{
+				"name": "carbon_chunk",
+				"custom_model_data": 2200117,
+				"texture_size": 32
+			},
+			{
+				"name": "power_crystal",
+				"custom_model_data": 2200119,
+				"texture_size": 16
+			},
+			{
+				"name": "stone_chunk",
+				"custom_model_data": 2200155,
+				"texture_size": 16
+			},
+			{
+				"name": "lava_crystal",
+				"custom_model_data": 2200159,
+				"texture_size": 16
+			},
+			{
+				"name": "cheese",
+				"custom_model_data": 2200200,
+				"texture_size": 16
+			},
+			{
+				"name": "butter",
+				"custom_model_data": 2200201,
+				"texture_size": 16
+			},
+			{
+				"name": "tiny_pile_of_uranium",
+				"custom_model_data": 2200214,
+				"texture_size": 16
+			},
+			{
+				"name": "small_chunk_of_uranium",
+				"custom_model_data": 2200215,
+				"texture_size": 16
+			},
+			{
+				"name": "uranium",
+				"custom_model_data": 2200216,
+				"texture_size": 32
+			},
+			{
+				"name": "tin_can",
+				"custom_model_data": 2200226,
+				"texture_size": 16
+			},
+			{
+				"name": "small_backpack",
+				"custom_model_data": 2200248,
+				"texture_size": 16
+			},
+			{
+				"name": "medium_backpack",
+				"custom_model_data": 2200249,
+				"texture_size": 16
+			},
+			{
+				"name": "large_backpack",
+				"custom_model_data": 2200250,
+				"texture_size": 16
+			},
+			{
+				"name": "woven_backpack",
+				"custom_model_data": 2200251,
+				"texture_size": 16
+			},
+			{
+				"name": "gilded_backpack",
+				"custom_model_data": 2200253,
+				"texture_size": 16
+			},
+			{
+				"name": "radiant_backpack",
+				"custom_model_data": 2200254,
+				"texture_size": 16
+			},
+			{
+				"name": "magnet",
+				"custom_model_data": 2200256,
+				"texture_size": 16
+			},
+			{
+				"name": "infused_magnet",
+				"custom_model_data": 2200257,
+				"texture_size": 16
+			},
+			{
+				"name": "necrotic_skull",
+				"custom_model_data": 2200259,
+				"texture_size": 32
+			},
+			{
+				"name": "bound_backpack",
+				"custom_model_data": 2200261,
+				"texture_size": 16
+			},
+			{
+				"name": "electromagnet",
+				"custom_model_data": 2200305,
+				"texture_size": 16
+			},
+			{
+				"name": "electric_motor",
+				"custom_model_data": 2200306,
+				"texture_size": 16
+			},
+			{
+				"name": "heating_coil",
+				"custom_model_data": 2200307,
+				"texture_size": 16
+			},
+			{
+				"name": "cooling_unit",
+				"custom_model_data": 2200334,
+				"texture_size": 16
+			},
+			{
+				"name": "cooler",
+				"custom_model_data": 2200335,
+				"texture_size": 16
+			},
+			{
+				"name": "duct_tape",
+				"custom_model_data": 2200340,
+				"texture_size": 16
+			},
+			{
+				"name": "android_memory_core",
+				"custom_model_data": 2200386,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_transmitter",
+				"custom_model_data": 2200387,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_transmitter_advanced",
+				"custom_model_data": 2200388,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_transmitter_carbonado",
+				"custom_model_data": 2200389,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_transmitter_energized",
+				"custom_model_data": 2200390,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_control_panel",
+				"custom_model_data": 2200391,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_emergency_transmitter",
+				"custom_model_data": 2200393,
+				"texture_size": 16
+			},
+			{
+				"name": "normal1",
+				"custom_model_data": 2200396,
+				"texture_size": 16
+			},
+			{
+				"name": "miner",
+				"custom_model_data": 2200397,
+				"texture_size": 16
+			},
+			{
+				"name": "farmer1",
+				"custom_model_data": 2200398,
+				"texture_size": 16
+			},
+			{
+				"name": "woodcutter",
+				"custom_model_data": 2200399,
+				"texture_size": 16
+			},
+			{
+				"name": "fisherman1",
+				"custom_model_data": 2200400,
+				"texture_size": 16
+			},
+			{
+				"name": "butcher1",
+				"custom_model_data": 2200401,
+				"texture_size": 16
+			},
+			{
+				"name": "normal2",
+				"custom_model_data": 2200402,
+				"texture_size": 16
+			},
+			{
+				"name": "fisherman2",
+				"custom_model_data": 2200403,
+				"texture_size": 16
+			},
+			{
+				"name": "butcher2",
+				"custom_model_data": 2200404,
+				"texture_size": 16
+			},
+			{
+				"name": "farmer2",
+				"custom_model_data": 2200405,
+				"texture_size": 16
+			},
+			{
+				"name": "normal3",
+				"custom_model_data": 2200406,
+				"texture_size": 16
+			},
+			{
+				"name": "fisherman3",
+				"custom_model_data": 2200407,
+				"texture_size": 16
+			},
+			{
+				"name": "butcher3",
+				"custom_model_data": 2200408,
+				"texture_size": 16
+			},
+			{
+				"name": "gps_geo_scanner",
+				"custom_model_data": 2200450,
+				"texture_size": 16
+			},
+			{
+				"name": "oil_pump",
+				"custom_model_data": 2200452,
+				"texture_size": 16
+			},
+			{
+				"name": "geo_miner",
+				"custom_model_data": 2200453,
+				"texture_size": 16
+			},
+			{
+				"name": "bucket_of_oil",
+				"custom_model_data": 2200454,
+				"texture_size": 32
+			},
+			{
+				"name": "bucket_of_fuel",
+				"custom_model_data": 2200455,
+				"texture_size": 32
+			},
+			{
+				"name": "nether_ice",
+				"custom_model_data": 2200456,
+				"texture_size": 32
+			},
+			{
+				"name": "lava_generator_i",
+				"custom_model_data": 2200458,
+				"texture_size": 16
+			},
+			{
+				"name": "lava_generator_ii",
+				"custom_model_data": 2200459,
+				"texture_size": 16
+			},
+			{
+				"name": "combustion_reactor",
+				"custom_model_data": 2200460,
+				"texture_size": 16
+			},
+			{
+				"name": "enriched_nether_ice",
+				"custom_model_data": 2200469,
+				"texture_size": 32
+			},
+			{
+				"name": "organic_food_wheat",
+				"custom_model_data": 2200473,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_carrtos",
+				"custom_model_data": 2200474,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_potato",
+				"custom_model_data": 2200475,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_seeds",
+				"custom_model_data": 2200476,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_beetroot",
+				"custom_model_data": 2200477,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_melon",
+				"custom_model_data": 2200478,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_apple",
+				"custom_model_data": 2200479,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_sweet_berries",
+				"custom_model_data": 2200480,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_dried_kelp",
+				"custom_model_data": 2200481,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_food_cocoa_beans",
+				"custom_model_data": 2200482,
+				"texture_size": 16
+			},
+			{
+				"name": "exp_connector",
+				"custom_model_data": 2200486,
+				"texture_size": 32
+			},
+			{
+				"name": "organic_fertilizer_wheat",
+				"custom_model_data": 2200489,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_carrots",
+				"custom_model_data": 2200490,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_potato",
+				"custom_model_data": 2200491,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_seeds",
+				"custom_model_data": 2200492,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_beetroot",
+				"custom_model_data": 2200493,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_melon",
+				"custom_model_data": 2200494,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_apple",
+				"custom_model_data": 2200495,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_sweet_berries",
+				"custom_model_data": 2200496,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_dried_kelp",
+				"custom_model_data": 2200497,
+				"texture_size": 16
+			},
+			{
+				"name": "organic_fertilizer_cocoa_beans",
+				"custom_model_data": 2200498,
+				"texture_size": 16
+			},
+			{
+				"name": "reactor_coolant_cell",
+				"custom_model_data": 2200503,
+				"texture_size": 16
+			},
+			{
+				"name": "nether_ice_coolant_cell",
+				"custom_model_data": 2200504,
+				"texture_size": 16
+			},
+			{
+				"name": "neptunium",
+				"custom_model_data": 2200505,
+				"texture_size": 32
+			},
+			{
+				"name": "plutonium",
+				"custom_model_data": 2200506,
+				"texture_size": 32
+			},
+			{
+				"name": "boosted_uranium",
+				"custom_model_data": 2200507,
+				"texture_size": 32
+			},
+			{
+				"name": "nuclear_reactor",
+				"custom_model_data": 2200508,
+				"texture_size": 16
+			},
+			{
+				"name": "nether_star_reactor",
+				"custom_model_data": 2200509,
+				"texture_size": 16
+			},
+			{
+				"name": "motor",
+				"custom_model_data": 2200510,
+				"texture_size": 16
+			},
+			{
+				"name": "manager",
+				"custom_model_data": 2200511,
+				"texture_size": 16
+			},
+			{
+				"name": "connector",
+				"custom_model_data": 2200512,
+				"texture_size": 16
+			},
+			{
+				"name": "input",
+				"custom_model_data": 2200513,
+				"texture_size": 16
+			},
+			{
+				"name": "output",
+				"custom_model_data": 2200514,
+				"texture_size": 16
+			},
+			{
+				"name": "output2",
+				"custom_model_data": 2200515,
+				"texture_size": 16
+			},
+			{
+				"name": "automated_crafting_chamber",
+				"custom_model_data": 2200516,
+				"texture_size": 16
+			},
+			{
+				"name": "reactor_access_port",
+				"custom_model_data": 2200517,
+				"texture_size": 16
+			},
+			{
+				"name": "trash",
+				"custom_model_data": 2200519,
+				"texture_size": 16
+			},
+			{
+				"name": "tape_measure",
+				"custom_model_data": 2200527,
+				"texture_size": 16
+			},
+			{
+				"name": "energized_energy_capacitor",
+				"custom_model_data": 2200537,
+				"texture_size": 16
+			},
+			{
+				"name": "energy_connector",
+				"custom_model_data": 2200538,
+				"texture_size": 16
+			},
+			{
+				"name": "crafting_motor",
+				"custom_model_data": 2200539,
+				"texture_size": 16
+			},
+			{
+				"name": "vanilla_auto_crafter",
+				"custom_model_data": 2200540,
+				"texture_size": 16
+			},
+			{
+				"name": "enhanced_auto_crafter",
+				"custom_model_data": 2200541,
+				"texture_size": 16
+			},
+			{
+				"name": "armor_auto_crafter",
+				"custom_model_data": 2200542,
+				"texture_size": 16
+			}
+		]
+	}
+}

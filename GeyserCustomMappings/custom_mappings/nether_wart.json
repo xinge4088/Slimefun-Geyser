@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:nether_wart": [
+			{
+				"name": "magical_zombie_pills",
+				"custom_model_data": 2200162,
+				"texture_size": 16
+			},
+			{
+				"name": "vitamins",
+				"custom_model_data": 2200227,
+				"texture_size": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:cooked_mutton": [
+			{
+				"name": "mutton_jerky",
+				"custom_model_data": 2200022,
+				"texture_size": 32
+			}
+		]
+	}
+}

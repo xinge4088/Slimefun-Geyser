@@ -1,0 +1,12 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:iron_block": [
+			{
+				"name": "teleporter_matrix",
+				"custom_model_data": 2200462,
+				"texture_size": 16
+			}
+		]
+	}
+}

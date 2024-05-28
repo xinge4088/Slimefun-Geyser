@@ -1,0 +1,32 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:diamond_pickaxe": [
+			{
+				"name": "smelters_pickaxe",
+				"custom_model_data": 2200163,
+				"texture_size": 16
+			},
+			{
+				"name": "explosive_pickaxe",
+				"custom_model_data": 2200241,
+				"texture_size": 16
+			},
+			{
+				"name": "pickaxe_of_the_seeker",
+				"custom_model_data": 2200247,
+				"texture_size": 16
+			},
+			{
+				"name": "soulbound_pickaxe",
+				"custom_model_data": 2200275,
+				"texture_size": 16
+			},
+			{
+				"name": "pickaxe_of_vein_mining",
+				"custom_model_data": 2200271,
+				"texture_size": 16
+			}
+		]
+	}
+}
