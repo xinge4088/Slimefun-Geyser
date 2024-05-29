@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group 'com.github.redmondstudio.slimefungeyser'
+group 'com.github.Royale-MC:Slimefun-Geyser'
 version '1.0.0'
 
 repositories {
