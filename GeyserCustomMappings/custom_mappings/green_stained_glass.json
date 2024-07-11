@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:green_stained_glass_pane":[
+			{
+				"name": "food_fabricator",
+				"custom_model_data": 2200471,
+				"texture_size": 16
+			},
+			{
+				"name": "food_fabricator_2",
+				"custom_model_data": 2200472,
+				"texture_size": 16
+			}
+		]
+	}
+}

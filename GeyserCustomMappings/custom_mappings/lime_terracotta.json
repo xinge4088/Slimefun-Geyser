@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:lime_terracotta": [
+			{
+				"name": "crop_growth_accelerator",
+				"custom_model_data": 2200499,
+				"texture_size": 16
+			},
+			{
+				"name": "crop_growth_accelerator_2",
+				"custom_model_data": 2200500,
+				"texture_size": 16
+			}
+		]
+	}
+}

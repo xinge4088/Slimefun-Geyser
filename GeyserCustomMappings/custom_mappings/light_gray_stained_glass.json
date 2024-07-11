@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:light_gray_stained_glass": [
+			{
+				"name": "heated_pressure_chamber",
+				"custom_model_data": 2200368,
+				"texture_size": 16
+			},
+			{
+				"name": "heated_pressure_chamber2",
+				"custom_model_data": 2200369,
+				"texture_size": 16
+			}
+		]
+	}
+}

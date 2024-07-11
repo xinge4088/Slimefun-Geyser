@@ -4258,7 +4258,7 @@ public class Slimefun implements Extension {
         // BROWN_TERRACOTTA
         //
 		
-		CustomItemData electric_gold_pan_= CustomItemData.builder()
+		CustomItemData electric_gold_pan= CustomItemData.builder()
                 .name("electric_gold_pan")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200354).build())
                 .textureSize(16)
@@ -4367,7 +4367,7 @@ public class Slimefun implements Extension {
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200500).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:lime_terracotta", crop_growth_accelerator_2;
+        event.register("minecraft:lime_terracotta", crop_growth_accelerator_2);
 
         //
         // GREEN_STAINED_GLASS

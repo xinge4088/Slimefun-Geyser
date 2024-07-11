@@ -1,0 +1,17 @@
+{
+	"format_version": "1",
+	"items": {
+		"minecraft:piston": [
+			{
+				"name": "compressor",
+				"custom_model_data": 2200029,
+				"texture_size": 16
+			},
+			{
+				"name": "refinery",
+				"custom_model_data": 2200457,
+				"texture_size": 16
+			}
+		]
+	}
+}

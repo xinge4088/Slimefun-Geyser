@@ -6,6 +6,11 @@
 				"name": "wither_proof_obsidian",
 				"custom_model_data": 2200336,
 				"texture_size": 16
+			},
+			{
+				"name": "wither_assembler",
+				"custom_model_data": 2200526,
+				"texture_size": 16
 			}
 		]
 	}
