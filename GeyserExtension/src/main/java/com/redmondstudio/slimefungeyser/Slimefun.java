@@ -4355,12 +4355,12 @@ public class Slimefun implements Extension {
         // LIME_TERRACOTTA
         //
 
-        CustomItemData crop_growth_accelerator = CustomItemData.builder()
-                .name("crop_growth_accelerator")
-                .customItemOptions(CustomItemOptions.builder().customModelData(2200499).build())
-                .textureSize(16)
-                .build();
-        event.register("minecraft:lime_terracotta", crop_growth_accelerator);
+//        CustomItemData crop_growth_accelerator = CustomItemData.builder()
+//                .name("crop_growth_accelerator")
+//                .customItemOptions(CustomItemOptions.builder().customModelData(2200499).build())
+//                .textureSize(16)
+//                .build();
+//        event.register("minecraft:lime_terracotta", crop_growth_accelerator);
 
         CustomItemData crop_growth_accelerator_2 = CustomItemData.builder()
                 .name("crop_growth_accelerator_2")
