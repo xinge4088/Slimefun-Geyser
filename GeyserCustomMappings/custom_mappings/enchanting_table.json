@@ -6,6 +6,26 @@
 				"name": "ancient_altar",
 				"custom_model_data": 2200338,
 				"texture_size": 16
+			},
+			{
+				"name": "auto_enchanter",
+				"custom_model_data": 2200380,
+				"texture_size": 16
+			},
+			{
+				"name": "auto_disenchanter",
+				"custom_model_data": 2200381,
+				"texture_size": 16
+			},
+			{
+				"name": "auto_enchanter_2",
+				"custom_model_data": 2200535,
+				"texture_size": 16
+			},
+			{
+				"name": "auto_disenchanter_2",
+				"custom_model_data": 2200536,
+				"texture_size": 16
 			}
 		]
 	}
