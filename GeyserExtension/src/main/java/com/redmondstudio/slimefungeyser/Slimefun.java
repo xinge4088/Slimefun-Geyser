@@ -437,19 +437,19 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", carbonado_edged_energy_capacitor);
 		
-		CustomItemData coal_generator_i = CustomItemData.builder()
-                .name("coal_generator_i")
+		CustomItemData coal_generator = CustomItemData.builder()
+                .name("coal_generator")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200371).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:player_head", coal_generator_i);
+        event.register("minecraft:player_head", coal_generator);
 		
-		CustomItemData coal_generator_ii = CustomItemData.builder()
-                .name("coal_generator_ii")
+		CustomItemData coal_generator2 = CustomItemData.builder()
+                .name("coal_generator2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200372).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:player_head", coal_generator_ii);
+        event.register("minecraft:player_head", coal_generator2);
 		
 		CustomItemData electric_press_i = CustomItemData.builder()
                 .name("electric_press_i")
@@ -458,19 +458,19 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", electric_press_i);
 		
-		CustomItemData electric_press_ii = CustomItemData.builder()
-                .name("electric_press_ii")
+		CustomItemData electric_press2 = CustomItemData.builder()
+                .name("electric_press2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200377).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:player_head", electric_press_ii);
+        event.register("minecraft:player_head", electric_press2);
 		
-		CustomItemData magnesium_powered_generator = CustomItemData.builder()
-                .name("magnesium_powered_generator")
+		CustomItemData magnesium_generator = CustomItemData.builder()
+                .name("magnesium_generator")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200379).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:player_head", magnesium_powered_generator);
+        event.register("minecraft:player_head", magnesium_generator);
 				
 		CustomItemData android_memory_core = CustomItemData.builder()
                 .name("android_memory_core")
@@ -654,19 +654,19 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", nether_ice);
 		
-		CustomItemData lava_generator_i = CustomItemData.builder()
-                .name("lava_generator_i")
+		CustomItemData lava_generator = CustomItemData.builder()
+                .name("lava_generator")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200458).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:player_head", lava_generator_i);
+        event.register("minecraft:player_head", lava_generator);
 		
-		CustomItemData lava_generator_ii = CustomItemData.builder()
-                .name("lava_generator_ii")
+		CustomItemData lava_generator2 = CustomItemData.builder()
+                .name("lava_generator2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200459).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:player_head", lava_generator_ii);
+        event.register("minecraft:player_head", lava_generator2);
 		
 		CustomItemData combustion_reactor = CustomItemData.builder()
                 .name("combustion_reactor")
@@ -948,12 +948,12 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:player_head", tape_measure);
 
-        CustomItemData energized_energy_capacitor = CustomItemData.builder()
-                .name("energized_energy_capacitor")
+        CustomItemData energized_capacitor = CustomItemData.builder()
+                .name("energized_capacitor")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200537).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:player_head", energized_energy_capacitor);
+        event.register("minecraft:player_head", energized_capacitor);
 
         CustomItemData energy_connector = CustomItemData.builder()
                 .name("energy_connector")
@@ -2693,6 +2693,13 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:piston", compressor);
 
+        CustomItemData refinery = CustomItemData.builder()
+                .name("refinery")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200457).build())
+                .textureSize(32)
+                .build();
+        event.register("minecraft:piston", refinery);
+
         //
 		// BLAST_FURNACE
 		//
@@ -2806,40 +2813,40 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:furnace", carbonado_edged_furnace);
 
-		CustomItemData electric_furnace_i = CustomItemData.builder()
-                .name("electric_furnace_i")
+		CustomItemData electric_furnace = CustomItemData.builder()
+                .name("electric_furnace")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200351).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_furnace_i);
+        event.register("minecraft:furnace", electric_furnace);
 
-		CustomItemData electric_furnace_ii = CustomItemData.builder()
-                .name("electric_furnace_ii")
+		CustomItemData electric_furnace2 = CustomItemData.builder()
+                .name("electric_furnace2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200352).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_furnace_ii);
+        event.register("minecraft:furnace", electric_furnace2);
 
-		CustomItemData electric_furnace_iii = CustomItemData.builder()
-                .name("electric_furnace_iii")
+		CustomItemData electric_furnace3 = CustomItemData.builder()
+                .name("electric_furnace3")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200353).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_furnace_iii);
+        event.register("minecraft:furnace", electric_furnace3);
 
-		CustomItemData electric_ore_grinder_i = CustomItemData.builder()
-                .name("electric_ore_grinder_i")
+		CustomItemData electric_ore_grinder = CustomItemData.builder()
+                .name("electric_ore_grinder")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200366).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_ore_grinder_i);
+        event.register("minecraft:furnace", electric_ore_grinder);
 
-		CustomItemData electric_ore_grinder_ii = CustomItemData.builder()
-                .name("electric_ore_grinder_ii")
+		CustomItemData electric_ore_grinder2 = CustomItemData.builder()
+                .name("electric_ore_grinder2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200367).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_ore_grinder_ii);
+        event.register("minecraft:furnace", electric_ore_grinder2);
 
 		CustomItemData electric_ingot_pulverizer = CustomItemData.builder()
                 .name("electric_ingot_pulverizer")
@@ -2848,26 +2855,26 @@ public class Slimefun implements Extension {
                 .build();
         event.register("minecraft:furnace", electric_ingot_pulverizer);
 
-		CustomItemData electric_smeltery_i = CustomItemData.builder()
-                .name("electric_smeltery_i")
+		CustomItemData electric_smeltery = CustomItemData.builder()
+                .name("electric_smeltery")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200523).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_smeltery_i);
+        event.register("minecraft:furnace", electric_smeltery);
 
-		CustomItemData electric_smeltery_ii = CustomItemData.builder()
-                .name("electric_smeltery_ii")
+		CustomItemData electric_smeltery2 = CustomItemData.builder()
+                .name("electric_smeltery2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200524).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_smeltery_ii);
+        event.register("minecraft:furnace", electric_smeltery2);
 
-		CustomItemData electric_ore_grinder_iii = CustomItemData.builder()
-                .name("electric_ore_grinder_iii")
+		CustomItemData electric_ore_grinder3 = CustomItemData.builder()
+                .name("electric_ore_grinder3")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200528).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:furnace", electric_ore_grinder_iii);
+        event.register("minecraft:furnace", electric_ore_grinder3);
 
         //
 		// CAULDRON
@@ -4124,6 +4131,13 @@ public class Slimefun implements Extension {
                 .textureSize(16)
                 .build();
         event.register("minecraft:obsidian", wither_proof_obsidian);
+
+        CustomItemData wither_assembler = CustomItemData.builder()
+                .name("wither_assembler")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200526).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:obsidian", wither_assembler);
 		
 		//
         // BOW
@@ -4198,72 +4212,72 @@ public class Slimefun implements Extension {
 		// RED_TERRACOTTA
         //
 		
-		CustomItemData electric_ingot_factory_i = CustomItemData.builder()
-                .name("electric_ingot_factory_i")
+		CustomItemData electric_ingot_factory = CustomItemData.builder()
+                .name("electric_ingot_factory")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200360).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:red_terracotta", electric_ingot_factory_i);
+        event.register("minecraft:red_terracotta", electric_ingot_factory);
 		
-		CustomItemData electric_ingot_factory_ii = CustomItemData.builder()
-                .name("electric_ingot_factory_ii")
+		CustomItemData electric_ingot_factory2 = CustomItemData.builder()
+                .name("electric_ingot_factory2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200361).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:red_terracotta", electric_ingot_factory_ii);
+        event.register("minecraft:red_terracotta", electric_ingot_factory2);
 		
-		CustomItemData electric_ingot_factory_iii = CustomItemData.builder()
-                .name("electric_ingot_factory_iii")
+		CustomItemData electric_ingot_factory3 = CustomItemData.builder()
+                .name("electric_ingot_factory3")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200362).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:red_terracotta", electric_ingot_factory_iii);
+        event.register("minecraft:red_terracotta", electric_ingot_factory3);
 		
-		CustomItemData electrified_crucible_i = CustomItemData.builder()
-                .name("electrified_crucible_i")
+		CustomItemData electrified_crucible = CustomItemData.builder()
+                .name("electrified_crucible")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200363).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:red_terracotta", electrified_crucible_i);
+        event.register("minecraft:red_terracotta", electrified_crucible);
 		
-		CustomItemData electrified_crucible_ii = CustomItemData.builder()
-                .name("electrified_crucible_ii")
+		CustomItemData electrified_crucible2 = CustomItemData.builder()
+                .name("electrified_crucible2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200364).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:red_terracotta", electrified_crucible_ii);
+        event.register("minecraft:red_terracotta", electrified_crucible2);
 		
-		CustomItemData electrified_crucible_iii = CustomItemData.builder()
-                .name("electrified_crucible_iii")
+		CustomItemData electrified_crucible3 = CustomItemData.builder()
+                .name("electrified_crucible3")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200365).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:red_terracotta", electrified_crucible_iii);
+        event.register("minecraft:red_terracotta", electrified_crucible3);
 		
 		//
         // BROWN_TERRACOTTA
         //
 		
-		CustomItemData electric_gold_pan_i = CustomItemData.builder()
-                .name("electric_gold_pan_i")
+		CustomItemData electric_gold_pan_= CustomItemData.builder()
+                .name("electric_gold_pan")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200354).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:brown_terracotta", electric_gold_pan_i);
+        event.register("minecraft:brown_terracotta", electric_gold_pan);
 		
-		CustomItemData electric_gold_pan_ii = CustomItemData.builder()
-                .name("electric_gold_pan_ii")
+		CustomItemData electric_gold_pan2 = CustomItemData.builder()
+                .name("electric_gold_pan2")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200355).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:brown_terracotta", electric_gold_pan_ii);
+        event.register("minecraft:brown_terracotta", electric_gold_pan2);
 		
-		CustomItemData electric_gold_pan_iii = CustomItemData.builder()
-                .name("electric_gold_pan_iii")
+		CustomItemData electric_gold_pan3 = CustomItemData.builder()
+                .name("electric_gold_pan3")
                 .customItemOptions(CustomItemOptions.builder().customModelData(2200356).build())
                 .textureSize(16)
                 .build();
-        event.register("minecraft:brown_terracotta", electric_gold_pan_iii);
+        event.register("minecraft:brown_terracotta", electric_gold_pan3);
 		
 		CustomItemData tree_growth_accelerator = CustomItemData.builder()
                 .name("tree_growth_accelerator")
@@ -4336,7 +4350,61 @@ public class Slimefun implements Extension {
                 .textureSize(16)
                 .build();
         event.register("minecraft:black_stained_glass_pane", next_off);
-		
+
+        //
+        // LIME_TERRACOTTA
+        //
+
+        CustomItemData crop_growth_accelerator = CustomItemData.builder()
+                .name("crop_growth_accelerator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200499).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:lime_terracotta", crop_growth_accelerator);
+
+        CustomItemData crop_growth_accelerator_2 = CustomItemData.builder()
+                .name("crop_growth_accelerator_2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200500).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:lime_terracotta", crop_growth_accelerator_2;
+
+        //
+        // GREEN_STAINED_GLASS
+        //
+
+        CustomItemData food_fabricator = CustomItemData.builder()
+                .name("food_fabricator")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200471).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:green_stained_glass", food_fabricator);
+
+        CustomItemData food_fabricator_2 = CustomItemData.builder()
+                .name("food_fabricator_2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200472).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:green_stained_glass", food_fabricator_2);
+
+        //
+        // LIGHT_GRAY_STAINED_GLASS
+        //
+
+        CustomItemData heated_pressure_chamber = CustomItemData.builder()
+                .name("heated_pressure_chamber")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200368).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:light_gray_stained_glass", heated_pressure_chamber);
+
+        CustomItemData heated_pressure_chamber2 = CustomItemData.builder()
+                .name("heated_pressure_chamber2")
+                .customItemOptions(CustomItemOptions.builder().customModelData(2200369).build())
+                .textureSize(16)
+                .build();
+        event.register("minecraft:light_gray_stained_glass", heated_pressure_chamber2);
+
 		//
                 //
                 //
