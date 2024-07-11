@@ -2457,344 +2457,409 @@
 				"textures/items/talisman-ii/ender_talisman_of_the_wizard"
 			]
 		},
+		//
+		//
+		// ENERGY
+		//
+		//
+		"auto_enchanter": {
+			"textures": [
+				"textures/items/energy/auto_enchanter"
+			]
+		},
+		"auto_enchanter_2": {
+			"textures": [
+				"textures/items/energy/auto_enchanter_2"
+			]
+		},
+		"auto_disenchanter": {
+			"textures": [
+				"textures/items/energy/auto_disenchanter"
+			]
+		},
+		"auto_disenchanter_2": {
+			"textures": [
+				"textures/items/energy/auto_disenchanter_2"
+			]
+		},
+		"crop_growth_accelerator": {
+			"textures": [
+				"textures/items/energy/crop_growth_accelerator"
+			]
+		},
+		"crop_growth_accelerator_2": {
+			"textures": [
+				"textures/items/energy/crop_growth_accelerator_2"
+			]
+		},
+		"food_fabricator": {
+			"textures": [
+				"textures/items/energy/food_fabricator"
+			]
+		},
+		"food_fabricator_2": {
+			"textures": [
+				"textures/items/energy/food_fabricator_2"
+			]
+		},
+		"heated_pressure_chamber": {
+			"textures": [
+				"textures/items/energy/heated_pressure_chamber"
+			]
+		},
+		"heated_pressure_chamber2": {
+			"textures": [
+				"textures/items/energy/heated_pressure_chamber2"
+			]
+		},
 		"energy_regulator": {
 			"textures": [
-				"textures/items/energia&electricidad/energy_regulator"
+				"textures/items/energy/energy_regulator"
 			]
 		},
 		"energy_connector": {
 			"textures": [
-				"textures/items/energia&electricidad/energy_connector"
+				"textures/items/energy/energy_connector"
 			]
 		},
-		"small_energy_capacitor": {
+		"refinery": {
 			"textures": [
-				"textures/items/energia&electricidad/small_energy_capacitor"
-			]
-		},
-		"medium_energy_capacitor": {
-			"textures": [
-				"textures/items/energia&electricidad/medium_energy_capacitor"
-			]
-		},
-		"big_energy_capacitor": {
-			"textures": [
-				"textures/items/energia&electricidad/big_energy_capacitor"
-			]
-		},
-		"large_energy_capacitor": {
-			"textures": [
-				"textures/items/energia&electricidad/large_energy_capacitor"
-			]
-		},
-		"carbonado_edged_energy_capacitor": {
-			"textures": [
-				"textures/items/energia&electricidad/carbonado_edged_energy_capacitor"
-			]
-		},
-		"energized_energy_capacitor": {
-			"textures": [
-				"textures/items/energia&electricidad/energized_energy_capacitor"
-			]
-		},
-		"coal_generator_i": {
-			"textures": [
-				"textures/items/energia&electricidad/coal_generator_i"
-			]
-		},
-		"coal_generator_ii": {
-			"textures": [
-				"textures/items/energia&electricidad/coal_generator_ii"
-			]
-		},
-		"electric_press_i": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_press_i"
-			]
-		},
-		"electric_press_ii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_press_ii"
-			]
-		},
-		"magnesium_powered_generator": {
-			"textures": [
-				"textures/items/energia&electricidad/magnesium_powered_generator"
-			]
-		},
-		"lava_generator_i": {
-			"textures": [
-				"textures/items/energia&electricidad/lava_generator_i"
-			]
-		},
-		"lava_generator_ii": {
-			"textures": [
-				"textures/items/energia&electricidad/lava_generator_ii"
-			]
-		},
-		"combustion_reactor": {
-			"textures": [
-				"textures/items/energia&electricidad/combustion_reactor"
-			]
-		},
-		"exp_collector": {
-			"textures": [
-				"textures/items/energia&electricidad/exp_collector"
-			]
-		},
-		"nuclear_reactor": {
-			"textures": [
-				"textures/items/energia&electricidad/nuclear_reactor"
-			]
-		},
-		"nether_star_reactor": {
-			"textures": [
-				"textures/items/energia&electricidad/nether_star_reactor"
-			]
-		},
-		"solar_generator": {
-			"textures": [
-				"textures/items/energia&electricidad/solar_generator"
-			]
-		},
-		"advanced_solar_generator": {
-			"textures": [
-				"textures/items/energia&electricidad/advanced_solar_generator"
-			]
-		},
-		"carbonado_solar_generator": {
-			"textures": [
-				"textures/items/energia&electricidad/carbonado_solar_generator"
-			]
-		},
-		"energized_solar_generator": {
-			"textures": [
-				"textures/items/energia&electricidad/energized_solar_generator"
-			]
-		},
-		"charging_bench": {
-			"textures": [
-				"textures/items/energia&electricidad/charging_bench"
-			]
-		},
-		"electric_furnace_i": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_furnace_i"
-			]
-		},
-		"electric_furnace_ii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_furnace_ii"
-			]
-		},
-		"electric_furnace_iii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_furnace_iii"
-			]
-		},
-		"electric_ore_grinder_i": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_ore_grinder_i"
-			]
-		},
-		"electric_ore_grinder_ii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_ore_grinder_ii"
-			]
-		},
-		"electric_ore_grinder_iii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_ore_grinder_iii"
-			]
-		},
-		"electric_ingot_pulverizer": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_ingot_pulverizer"
-			]
-		},
-		"electric_smeltery_i": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_smeltery_i"
-			]
-		},
-		"electric_smeltery_ii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_smeltery_ii"
-			]
-		},
-		"electric_gold_pan_i": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_gold_pan_i"
-			]
-		},
-		"electric_gold_pan_ii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_gold_pan_ii"
-			]
-		},
-		"electric_gold_pan_iii": {
-			"textures": [
-				"textures/items/energia&electricidad/electric_gold_pan_iii"
+				"textures/items/energy/refinery"
 			]
 		},
 		"tree_growth_accelerator": {
 			"textures": [
-				"textures/items/energia&electricidad/NO_ICONO"
+				"textures/items/energy/tree_growth_accelerator"
 			]
 		},
-		"electric_ingot_factory_i": {
+		"wither_assembler": {
 			"textures": [
-				"textures/items/energia&electricidad/electric_ingot_factory_i"
+				"textures/items/energy/wither_assembler"
 			]
 		},
-		"electric_ingot_factory_ii": {
+		"small_energy_capacitor": {
 			"textures": [
-				"textures/items/energia&electricidad/electric_ingot_factory_ii"
+				"textures/items/energy/small_energy_capacitor"
 			]
 		},
-		"electric_ingot_factory_iii": {
+		"medium_energy_capacitor": {
 			"textures": [
-				"textures/items/energia&electricidad/electric_ingot_factory_iii"
+				"textures/items/energy/medium_energy_capacitor"
 			]
 		},
-		"electrified_crucible_i": {
+		"big_energy_capacitor": {
 			"textures": [
-				"textures/items/energia&electricidad/electrified_crucible_i"
+				"textures/items/energy/big_energy_capacitor"
 			]
 		},
-		"electrified_crucible_ii": {
+		"large_energy_capacitor": {
 			"textures": [
-				"textures/items/energia&electricidad/electrified_crucible_ii"
+				"textures/items/energy/large_energy_capacitor"
 			]
 		},
-		"electrified_crucible_iii": {
+		"carbonado_edged_energy_capacitor": {
 			"textures": [
-				"textures/items/energia&electricidad/electrified_crucible_iii"
+				"textures/items/energy/carbonado_edged_energy_capacitor"
+			]
+		},
+		"energized_capacitor": {
+			"textures": [
+				"textures/items/energy/energized_capacitor"
+			]
+		},
+		"coal_generator": {
+			"textures": [
+				"textures/items/energy/coal_generator"
+			]
+		},
+		"coal_generator2": {
+			"textures": [
+				"textures/items/energy/coal_generator2"
+			]
+		},
+		"electric_press": {
+			"textures": [
+				"textures/items/energy/electric_press"
+			]
+		},
+		"electric_press2": {
+			"textures": [
+				"textures/items/energy/electric_press2"
+			]
+		},
+		"magnesium_generator": {
+			"textures": [
+				"textures/items/energy/magnesium_generator"
+			]
+		},
+		"lava_generator": {
+			"textures": [
+				"textures/items/energy/lava_generator"
+			]
+		},
+		"lava_generator2": {
+			"textures": [
+				"textures/items/energy/lava_generator2"
+			]
+		},
+		"combustion_reactor": {
+			"textures": [
+				"textures/items/energy/combustion_reactor"
+			]
+		},
+		"exp_collector": {
+			"textures": [
+				"textures/items/energy/exp_collector"
+			]
+		},
+		"nuclear_reactor": {
+			"textures": [
+				"textures/items/energy/nuclear_reactor"
+			]
+		},
+		"nether_star_reactor": {
+			"textures": [
+				"textures/items/energy/nether_star_reactor"
+			]
+		},
+		"solar_generator": {
+			"textures": [
+				"textures/items/energy/solar_generator"
+			]
+		},
+		"advanced_solar_generator": {
+			"textures": [
+				"textures/items/energy/advanced_solar_generator"
+			]
+		},
+		"carbonado_solar_generator": {
+			"textures": [
+				"textures/items/energy/carbonado_solar_generator"
+			]
+		},
+		"energized_solar_generator": {
+			"textures": [
+				"textures/items/energy/energized_solar_generator"
+			]
+		},
+		"charging_bench": {
+			"textures": [
+				"textures/items/energy/charging_bench"
+			]
+		},
+		"electric_furnace": {
+			"textures": [
+				"textures/items/energy/electric_furnace"
+			]
+		},
+		"electric_furnace2": {
+			"textures": [
+				"textures/items/energy/electric_furnace2"
+			]
+		},
+		"electric_furnace3": {
+			"textures": [
+				"textures/items/energy/electric_furnace3"
+			]
+		},
+		"electric_ore_grinder": {
+			"textures": [
+				"textures/items/energy/electric_ore_grinder"
+			]
+		},
+		"electric_ore_grinder2": {
+			"textures": [
+				"textures/items/energy/electric_ore_grinder2"
+			]
+		},
+		"electric_ore_grinder3": {
+			"textures": [
+				"textures/items/energy/electric_ore_grinder3"
+			]
+		},
+		"electric_ingot_pulverizer": {
+			"textures": [
+				"textures/items/energy/electric_ingot_pulverizer"
+			]
+		},
+		"electric_smeltery": {
+			"textures": [
+				"textures/items/energy/electric_smeltery"
+			]
+		},
+		"electric_smeltery2": {
+			"textures": [
+				"textures/items/energy/electric_smeltery2"
+			]
+		},
+		"electric_gold_pan": {
+			"textures": [
+				"textures/items/energy/electric_gold_pan"
+			]
+		},
+		"electric_gold_pan2": {
+			"textures": [
+				"textures/items/energy/electric_gold_pan2"
+			]
+		},
+		"electric_gold_pan3": {
+			"textures": [
+				"textures/items/energy/electric_gold_pan3"
+			]
+		},
+		"electric_ingot_factory": {
+			"textures": [
+				"textures/items/energy/electric_ingot_factory"
+			]
+		},
+		"electric_ingot_factory2": {
+			"textures": [
+				"textures/items/energy/electric_ingot_factory2"
+			]
+		},
+		"electric_ingot_factory3": {
+			"textures": [
+				"textures/items/energy/electric_ingot_factory3"
+			]
+		},
+		"electrified_crucible": {
+			"textures": [
+				"textures/items/energy/electrified_crucible"
+			]
+		},
+		"electrified_crucible2": {
+			"textures": [
+				"textures/items/energy/electrified_crucible2"
+			]
+		},
+		"electrified_crucible3": {
+			"textures": [
+				"textures/items/energy/electrified_crucible3"
 			]
 		},
 		"damascus_steel_helmet": {
 			"textures": [
-				"textures/items/armaduras/damascus_armor/damascus_steel_helmet"
+				"textures/items/armor/damascus_armor/damascus_steel_helmet"
 			]
 		},
 		"damascus_steel_chestplate": {
 			"textures": [
-				"textures/items/armaduras/damascus_armor/damascus_steel_chestplate"
+				"textures/items/armor/damascus_armor/damascus_steel_chestplate"
 			]
 		},
 		"damascus_steel_leggings": {
 			"textures": [
-				"textures/items/armaduras/damascus_armor/damascus_steel_leggings"
+				"textures/items/armor/damascus_armor/damascus_steel_leggings"
 			]
 		},
 		"damascus_steel_boots": {
 			"textures": [
-				"textures/items/armaduras/damascus_armor/damascus_steel_boots"
+				"textures/items/armor/damascus_armor/damascus_steel_boots"
 			]
 		},
 		"cactus_helmet": {
 			"textures": [
-				"textures/items/armaduras/cactus_armor/cactus_helmet"
+				"textures/items/armor/cactus_armor/cactus_helmet"
 			]
 		},
 		"cactus_chestplate": {
 			"textures": [
-				"textures/items/armaduras/cactus_armor/cactus_chestplate"
+				"textures/items/armor/cactus_armor/cactus_chestplate"
 			]
 		},
 		"cactus_leggings": {
 			"textures": [
-				"textures/items/armaduras/cactus_armor/cactus_leggings"
+				"textures/items/armor/cactus_armor/cactus_leggings"
 			]
 		},
 		"cactus_boots": {
 			"textures": [
-				"textures/items/armaduras/cactus_armor/cactus_boots"
+				"textures/items/armor/cactus_armor/cactus_boots"
 			]
 		},
 		"reinforced_helmet": {
 			"textures": [
-				"textures/items/armaduras/reinforced_armor/reinforced_helmet"
+				"textures/items/armor/reinforced_armor/reinforced_helmet"
 			]
 		},
 		"reinforced_chestplate": {
 			"textures": [
-				"textures/items/armaduras/reinforced_armor/reinforced_chestplate"
+				"textures/items/armor/reinforced_armor/reinforced_chestplate"
 			]
 		},
 		"reinforced_leggings": {
 			"textures": [
-				"textures/items/armaduras/reinforced_armor/reinforced_leggings"
+				"textures/items/armor/reinforced_armor/reinforced_leggings"
 			]
 		},
 		"reinforced_boots": {
 			"textures": [
-				"textures/items/armaduras/reinforced_armor/reinforced_boots"
+				"textures/items/armor/reinforced_armor/reinforced_boots"
 			]
 		},
 		"scuba_helmet": {
 			"textures": [
-				"textures/items/armaduras/hazmat_suit/scuba_helmet"
+				"textures/items/armor/hazmat_suit/scuba_helmet"
 			]
 		},
 		"hazmat_chestplate": {
 			"textures": [
-				"textures/items/armaduras/hazmat_suit/hazmat_chestplate"
+				"textures/items/armor/hazmat_suit/hazmat_chestplate"
 			]
 		},
 		"hazmat_leggings": {
 			"textures": [
-				"textures/items/armaduras/hazmat_suit/hazmat_leggings"
+				"textures/items/armor/hazmat_suit/hazmat_leggings"
 			]
 		},
 		"rubber_boots": {
 			"textures": [
-				"textures/items/armaduras/hazmat_suit/rubber_boots"
+				"textures/items/armor/hazmat_suit/rubber_boots"
 			]
 		},
 		"gilded_iron_helmet": {
 			"textures": [
-				"textures/items/armaduras/gilded_armor/gilded_iron_helmet"
+				"textures/items/armor/gilded_armor/gilded_iron_helmet"
 			]
 		},
 		"gilded_iron_chestplate": {
 			"textures": [
-				"textures/items/armaduras/gilded_armor/gilded_iron_chestplate"
+				"textures/items/armor/gilded_armor/gilded_iron_chestplate"
 			]
 		},
 		"gilded_iron_leggings": {
 			"textures": [
-				"textures/items/armaduras/gilded_armor/gilded_iron_leggings"
+				"textures/items/armor/gilded_armor/gilded_iron_leggings"
 			]
 		},
 		"gilded_iron_boots": {
 			"textures": [
-				"textures/items/armaduras/gilded_armor/gilded_iron_boots"
+				"textures/items/armor/gilded_armor/gilded_iron_boots"
 			]
 		},
 		"gold_12k_helmet": {
 			"textures": [
-				"textures/items/armaduras/golden_armor/gold_12k_helmet"
+				"textures/items/armor/golden_armor/gold_12k_helmet"
 			]
 		},
 		"gold_12k_chestplate": {
 			"textures": [
-				"textures/items/armaduras/golden_armor/gold_12k_chestplate"
+				"textures/items/armor/golden_armor/gold_12k_chestplate"
 			]
 		},
 		"gold_12k_leggings": {
 			"textures": [
-				"textures/items/armaduras/golden_armor/gold_12k_leggings"
+				"textures/items/armor/golden_armor/gold_12k_leggings"
 			]
 		},
 		"gold_12k_boots": {
 			"textures": [
-				"textures/items/armaduras/golden_armor/gold_12k_boots"
+				"textures/items/armor/golden_armor/gold_12k_boots"
 			]
 		},
 		"BASE": {
 			"textures": [
-				"textures/items/armaduras/_armor/BASE"
+				"textures/items/armor/_armor/BASE"
 			]
 		}
 	}
